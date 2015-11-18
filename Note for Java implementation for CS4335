@@ -1,0 +1,11 @@
+Note for Java implementation for CS4335
+
+----9 Oct---
+done.
+1. read from Matlab data and psi
+2. calculate Phi
+3. calculate average 
+
+prob/to do:
+some sign of Phi is not correct. check more.
+Phi inverse happen error with the call of JAMA. inverse.
